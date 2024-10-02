@@ -1,7 +1,5 @@
 package main
 
-import "examles_11_cohort/maps"
-
 func main() {
 
 	/* 1 Functions
@@ -20,11 +18,28 @@ func main() {
 	//fmt.Println(multiplication, division)
 	*/
 
-	///* 2 Maps
-	maps.MapExample1()
+	/* 2 Maps
+	//maps.MapExample1()
 	//maps.MapExample2()
 	//maps.MapExample3()
 	//maps.SliceVsMapExample1()
 	//maps.SliceVsMapExample2()
-	//*/
+	*/
+
+	/* Functions extended
+	//functions_extended.Example1()
+	//functions_extended.Example2()
+	//functions_extended.Example3()
+	//functions_extended.Example4()
+	//functions_extended.Example5()
+	//functions_extended.Example6()
+	//functions_extended.Example7()
+	//functions_extended.Example8()
+	//functions_extended.Example9()
+	//functions_extended.Example10()
+	//functions_extended.Example11()
+	//functions_extended.Example12()
+	//functions_extended.Example13()
+	functions_extended.Example14()
+	*/
 }
