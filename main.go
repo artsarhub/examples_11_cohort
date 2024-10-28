@@ -42,4 +42,19 @@ func main() {
 	//functions_extended.Example13()
 	functions_extended.Example14()
 	*/
+
+	/* Debug
+	//debug.MissingQuote()
+	//debug.LogicError()
+	//debug.RuntimeError()
+	//debug.Logging()
+	//debug.LoggingLevels()
+	//debug.StacktraceReading()
+	*/
+
+	/* Interfaces
+	log := logger.NewConsoleLogger()
+	//log := logger.NewFileLogger("logs/service.log")
+	zoo.EmulateZoo(log)
+	*/
 }
