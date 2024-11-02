@@ -1,7 +1,6 @@
 package main
 
 func main() {
-
 	/* 1 Functions
 	//functions.SayHello()
 	//functions.SayHelloToUser("Petya")
@@ -56,5 +55,14 @@ func main() {
 	log := logger.NewConsoleLogger()
 	//log := logger.NewFileLogger("logs/service.log")
 	zoo.EmulateZoo(log)
+	*/
+
+	/* Pointers
+	pointers.Example1()
+	//pointers.Example2()
+	//pointers.Example3()
+	//pointers.Example4()
+	//test_mem.RunTestMem()
+	//pointers.TreeExample()
 	*/
 }
