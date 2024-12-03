@@ -65,4 +65,9 @@ func main() {
 	//test_mem.RunTestMem()
 	//pointers.TreeExample()
 	*/
+
+	// Testing
+	/*
+		todo_server.RunServer()
+	*/
 }
