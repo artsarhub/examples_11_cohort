@@ -1,0 +1,5 @@
+OrderID,CustomerName,CustomerCity,ProductList,TotalPrice,OrderDate
+1,Alice,123-456-7890,"Laptop, Smartphone",1500.00,2024-11-01
+2,Bob,987-654-3210,"Laptop, Tablet",1300.00,2024-11-02
+3,Alice,123-456-7890,Smartphone,500.00,2024-11-03
+4,Charlie,555-123-4567,Tablet,300.00,2024-11-04
