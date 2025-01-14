@@ -57,17 +57,31 @@ func main() {
 	zoo.EmulateZoo(log)
 	*/
 
-	/* Pointers
-	pointers.Example1()
-	//pointers.Example2()
-	//pointers.Example3()
-	//pointers.Example4()
-	//test_mem.RunTestMem()
-	//pointers.TreeExample()
+	// Pointers
+	/*
+		pointers.Example1()
+		//pointers.Example2()
+		//pointers.Example3()
+		//pointers.Example4()
+		//test_mem.RunTestMem()
+		//pointers.TreeExample()
 	*/
 
 	// Testing
 	/*
 		todo_server.RunServer()
+	*/
+
+	// Multithreading
+	/*
+		//multithreading.RunSay()
+		//multithreading.RunWgWorkers()
+		//multithreading.RunWorkersWithBuffering()
+		//multithreading.RunWorkersWithoutBuffering()
+		//multithreading.RunMutex()
+		multithreading.RunRWMutex()
+		//multithreading.RunCtxExample()
+		//multithreading.RunDanglingRoutines()
+		//multithreading.RunBonus()
 	*/
 }
